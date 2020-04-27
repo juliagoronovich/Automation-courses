@@ -1,0 +1,73 @@
+Homework Part 1. Describe the cat class.
+
+Cat class:
+1. Class fields:
+state
+breed
+height
+weight
+floor
+age
+color
+2. Behavior
+move
+eat
+play
+multiply
+hear
+see
+think
+purr
+sleep
+
+
+
+Next, select the object of the "Ragdoll" class:
+1. Condition
+breed - ragdoll
+growth - 20
+weight - 10
+gender - boy
+age - 1
+color - white
+2. Behavior:
+move
+eat
+play
+multiply
+hear
+see
+think
+purr
+sleep
+
+
+Homework Part 2. As with the cat, you can implement the principles of OOP.
+
+1. Abstraction
+The goal of my project is to participate in a cat show.
+I highlight the main characteristics of the animal:
+the cat must meet all the characteristics of the breed externally, which is called not to be defective. Show class animal
+the cat must be outwardly neat and tidy.
+the cat must have a suitable calm character.
+the cat must be healthy.
+age from a year to 5 years (conditionally).
+Further, I exclude secondary characteristics:
+gender is not important, maybe both a cat and a cat.
+exclude animals not show class and sick.
+take into account the age limit, character.
+
+2. Encapsulation.
+I comb the hair before the show, thereby masking places where it is not of the same length. Weakness. I fix the hair in this form, I do not allow the animal to lick.
+I do not feed the cat on the eve of the show with heavy food, in order to avoid falling asleep and problems with the digestive tract.
+Not annoying, a playful mood can interfere with participation. 
+
+
+3. Inheritance.
+Choosing thoroughbred parents for a kitten, which I’m going to put on the show, I take into account the characteristics of the color, learning ability, health status. In order to avoid defects and defects.
+
+4. Polymorphism.
+Using the example of the method to move. I know that the Cat class involves fingering and tail movement to coordinate movements.
+
+
+
